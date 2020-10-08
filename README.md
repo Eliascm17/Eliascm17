@@ -2,7 +2,7 @@
 -----------
 - 👨🏾‍💻 I’m currently working on:
   - A Gift Fund Tracking Application for Texas Tech University
-  - 🛠 Built in: React, React Hooks, Next.js, Express.js, Node.js, Ant Design, PL/SQL
+  - 🛠 Built in: React, React Hooks, Javascript, Next.js, Express.js, Node.js, Ant Design, PL/SQL
   
 - 🌱 Things I’m currently learning: 
   - Typescript
