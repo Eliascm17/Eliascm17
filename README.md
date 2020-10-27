@@ -1,8 +1,8 @@
 ### Hi there, I'm Elias! 👋
 -----------
-- 👨🏾‍💻 I’m currently working on:
-  - A Gift Fund Tracking Application for Texas Tech University
-  - 🛠 Built in: React, React Hooks, Javascript, Next.js, Express.js, Node.js, Ant Design, PL/SQL
+- 👨🏾‍💻 I’m currently working on: 
+  - My [Senior Capstone project](https://github.com/Athena-Capstone-2020/athena-mobile-app)
+  - 🛠 Built in: React Native, React Hooks, JavaScript, Expo, Adobe XD, Firebase, @shopify/restyle
   
 - 🌱 Things I’m currently learning: 
   - Typescript
