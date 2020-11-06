@@ -9,7 +9,7 @@
   - GraphQL
   - Next.js
   
-- 🔍 I’m currently looking for full-time Front-end Developer/Engineering as well as Full-Stack Developer/Engineering positions at the moment
+- 🔍 I’m currently looking for full-time Front-end Developer positions at the moment
 - 🤔 Favorite technologies at the moment are ...
   <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
