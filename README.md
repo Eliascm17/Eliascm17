@@ -1,19 +1,25 @@
 ### Hi there, I'm Elias! 👋
 -----------
-- 👨🏾‍💻 I’m currently working on: 
-  - My [Senior Capstone project](https://github.com/Athena-Capstone-2020/athena-mobile-app)
-  - 🛠 Built in: React Native, React Hooks, JavaScript, Expo, Adobe XD, Firebase, @shopify/restyle
+- 👨🏾‍💻 I’m currently working on a couple of things at the moment!: 
+  - I'm currently going through Kent C. Dodds' amazing course [Epic React](https://epicreact.dev) 🚀
+  - I just started a blog 📖 on my personal site [Eliasm.dev](https://eliasm.dev/blog). I started this blog to document all of the cool things that I've been learning recently that surround Front-End Development
   
 - 🌱 Things I’m currently learning: 
-  - Typescript
+  - AWS
   - GraphQL
+  - Tailwind CSS
+ 
+- Things I'm good at 💪🏽: 
+  - All things React ⚛️
+  - JavaScript
   - Next.js
+  - Firebase
+  - Node.js
   
 - 🔍 I’m currently looking for full-time Front-end Developer positions at the moment
 - 🤔 Favorite technologies at the moment are ...
   <br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
