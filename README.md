@@ -1,38 +1,40 @@
-### Hi there, I'm Elias! 👋
------------
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Elias Moreno!
+
+I'm a Full-Stack Develper that loves dabbling in technologies such as AWS, GraphQL, Javascript, TailwindCSS, and many others
+
+I'm pretty new to the space but I'm also a content creator. I have a personal blog where I make posts based on what technologies I'm currently learning. You can check that out [here](https://eliasm.dev/blog)
+
+---
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/catalinmpit?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=catalinmpit) [![Linkedin: Eliascm17](https://img.shields.io/badge/-Eliascm17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Eliascm17/)](https://www.linkedin.com/in/Eliascm17/)
+
+- 📑 <a href="https://eliascm17.github.io/Resume/resume.pdf">Here</a> is my resume!
+- 🙋🏾‍♂️ <a href="https://eliasm.dev">Here</a> is my personal site!
 - 👨🏾‍💻 I’m currently working on a couple of things at the moment!: 
   - I'm currently going through Kent C. Dodds' amazing course [Epic React](https://epicreact.dev) 🚀
-  - I just started a blog 📖 on my personal site [Eliasm.dev](https://eliasm.dev/blog). I started this blog to document all of the cool things that I've been learning recently that surround Front-End Development
-  
-- 🌱 Things I’m currently learning: 
-  - AWS
-  - GraphQL
-  - Tailwind CSS
- 
-- Things I'm good at 💪🏽: 
-  - All things React ⚛️
-  - JavaScript
-  - Next.js
-  - Firebase
-  - Node.js
-  
-- 🔍 I’m currently looking for full-time Front-end Developer positions at the moment
-- 🤔 Favorite technologies at the moment are ...
-  <br/>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  - I just started a blog 📖 on my personal site [Eliasm.dev](https://eliasm.dev/blog). I started this blog to document all of the cool things that I've been learning recently that surround Full-Stack Development
+- 🔍 I’m currently looking for Full-Time Full-Stack Developer positions at the moment
 
-- 📑 <a href="https://eliascm17.github.io/Resume/Resume%20Fall%202020.pdf">Here</a> is a link to my resume!
-- 🙋🏾‍♂️ <a href="https://eliasm.dev">Here</a> is my personal site!
+---
+  
+- Technologies I enjoy working with 💪🏽: 
 
-- 📫 How you can reach me:
-  <br/>
-[![Twitter: Eliascm17](https://img.shields.io/twitter/follow/Eliascm17?style=social)](https://twitter.com/Eliascm17)
-[![Linkedin: Eliascm17](https://img.shields.io/badge/-Eliascm17-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Eliascm17/)](https://www.linkedin.com/in/Eliascm17/)
-[![GitHub Eliascm17](https://img.shields.io/github/followers/Eliascm17?label=follow&style=social)](https://github.com/Eliascm17)
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="TailwindCSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="50" height="50"/> 
+
+---
+
+📘 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Next.js + AWS Amplify + GraphQL Todo app ✅](https://eliasm.dev/blog/nextjs-aws-todo)
+- [React Fundamentals 🚀](https://eliasm.dev/blog/React-Fundamentals)
+<!-- BLOG-POST-LIST:END -->
+
+▶ [...more blog articles](https://eliasm.dev/blog)
+
+---
+
+## &#x1f4c8; My GitHub Stats
 
 ![Elias's github stats](https://github-readme-stats.vercel.app/api?username=Eliascm17&show_icons=true&theme=tokyonight)
 
