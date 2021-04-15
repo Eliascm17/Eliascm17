@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Elias Moreno!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Elias!
 
 I'm a Full-Stack Develper that loves dabbling in technologies such as AWS, GraphQL, Javascript, TailwindCSS, and many others
 
